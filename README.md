@@ -29,7 +29,7 @@ Furthermore, the entire system is highly lightweight: after full deployment, the
 ## Quick Start (Agent Automated Install)
 Instead of manually installing dependencies and models, simply copy and paste the following prompt to your AI assistant (e.g. Codex, OpenClaw, Cursor, etc.):
 
-> **Prompt:** Please follow the instructions in this repository to install this skill for me, including its required models and dependencies.
+> **Prompt:** Please follow the instructions in this repository to install this skill for me, including its required models and dependencies: https://github.com/henrCh1/meeting-to-text
 
 ---
 
