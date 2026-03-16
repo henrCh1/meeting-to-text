@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+env/
+envs/
+venv/
+.env
+
+# Models and Caches
+models/
+cache/
+downloads/
+tools/
+3d-speaker/
+.modelscope/
+.huggingface/
+
+# Workspaces
+meeting-to-text-skill-workspace/
+voice-journal-skill-workspace/
+temp/
+data/
+runs/
+
+# OS specific
+.DS_Store
+Thumbs.db

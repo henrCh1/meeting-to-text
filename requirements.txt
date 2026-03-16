@@ -1,0 +1,8 @@
+torch>=2.0.0
+torchaudio>=2.0.0
+modelscope
+huggingface_hub
+funasr
+scipy
+scikit-learn
+numpy
